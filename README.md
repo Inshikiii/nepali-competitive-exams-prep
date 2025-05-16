@@ -2,7 +2,7 @@
 
 ---
 
-![Loksewa Banner](https://via.placeholder.com/1200x300?text=Loksewa+Prep+Platform)
+![Loksewa Banner]([https://via.placeholder.com/1200x300?text=Loksewa+Prep+Platform](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.collegenp.com%2Finstitute%2Flok-sewa-aayog&psig=AOvVaw3BqvD529WNQfxIUMcbZ_Oz&ust=1747501519011000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOD0jtG8qI0DFQAAAAAdAAAAABAE))
 
 ---
 
