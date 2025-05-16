@@ -59,4 +59,4 @@ cd loksewa-prep
 npm install
 
 # Start the server
-npm start
+npm run dev
